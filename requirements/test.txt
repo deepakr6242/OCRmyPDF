@@ -5,3 +5,4 @@ pytest-cov >= 2.8.0
 python-xmp-toolkit == 2.0.1  # requires apt-get install libexempi3
                      # or brew install exempi
 #PyMuPDF == 1.13.4    # optional
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
